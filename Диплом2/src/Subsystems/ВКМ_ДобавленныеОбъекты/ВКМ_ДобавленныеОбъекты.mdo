@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a9b22f5f-c315-4e8d-973a-d29f6c366100">
+  <name>ВКМ_ДобавленныеОбъекты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Добавленные объекты</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Document.ВКМ_ОбслуживаниеКлиента</content>
+  <content>Role.ВКМ_ДобавлениеИзменениеДокументовПоОбслуживаниюКлиентов</content>
+  <content>Constant.ВКМ_ИдентификаторТелеграмГруппы</content>
+  <content>Constant.ВКМ_ТокенТелеграмБота</content>
+  <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
+  <content>Constant.ВКМ_ОтправлятьСообщенияВТелеграмЧат</content>
+  <content>CommonForm.ВКМ_НастройкаИнтеграцииСТелеграм</content>
+  <content>Constant.ВКМ_НоменклатураРаботыСпециалиста</content>
+  <content>Constant.ВКМ_НоменклатураАбонентскаяПлата</content>
+  <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
+  <content>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы</content>
+  <content>CommonModule.ВКМ_ТелеграмВызовСервера</content>
+  <content>CommonModule.ВКМ_ВспомогательныеФункцииКлиентСервер</content>
+  <content>Role.ВКМ_ИспользованиеТелеграмБота</content>
+  <content>Role.ВКМ_МассовоеСозданиеАктов</content>
+  <content>Role.ВКМ_ЧтениеИзменениеДокументовПоОбслуживаниюКлиентов</content>
+  <content>CommonPicture.ВКМ_ОбслуживаниеКлиентовКартинка</content>
+  <content>FunctionalOption.ВКМ_ОтправлятьСообщенияВТелеграмЧат</content>
+  <content>ScheduledJob.ВКМ_ОтправкаСообщенийВТелеграмЧат</content>
+  <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
+  <content>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</content>
+  <content>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</content>
+  <content>ChartOfCalculationTypes.ВКМ_Удержания</content>
+  <content>InformationRegister.ВКМ_ГрафикиРаботы</content>
+  <content>CalculationRegister.ВКМ_ОсновныеНачисления</content>
+  <content>CalculationRegister.ВКМ_ДополнительныеНачисления</content>
+  <content>CalculationRegister.ВКМ_Удержания</content>
+  <content>DataProcessor.ВКМ_ЗаполнениеГрафика</content>
+  <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
+  <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
+  <content>Document.ВКМ_НачислениеЗаработнойПлаты</content>
+  <content>Document.ВКМ_НачислениеФиксированнойПремии</content>
+  <content>Constant.ВКМ_НДФЛ</content>
+  <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
+  <content>Document.ВКМ_ВыплатаЗарплаты</content>
+  <content>Document.ВКМ_ГрафикОтпусков</content>
+  <content>Role.ВКМ_ДобавлениеИзменение_ДокументовПоРасчетуЗарплаты</content>
+  <content>Report.ВКМ_ВыработкаСпециалистов</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>Report.ВКМ_РасчётыССотрудниками</content>
+  <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
+  <content>Role.ВКМ_ЧтениеОтчетаВыработкаСпециалистов</content>
+  <content>Role.ВКМ_ЧтениеОтчетовИТБухгалтера</content>
+  <content>Role.ВКМ_ЧтениеОтчетовСпециалистаПоКадрам</content>
+  <content>Catalog.ВКМ_ГрафикиРаботы</content>
+  <content>CommonForm.ВКМ_НастройкиРасчетаЗарплаты</content>
+</mdclass:Subsystem>
